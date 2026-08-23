@@ -1,5 +1,5 @@
 
-# Nk Collecter
+# Nk Collector
 
 <p align="center"> <img src="images/nk_collector_64.png" width="128"> </p>
 
