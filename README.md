@@ -48,7 +48,7 @@ By running the collection process in **standalone mode**, Nk Collector provides 
 
 ## License
 
-NK Collecter is free to use for personal and commercial work.
+Nk Collector is free to use for personal and commercial work.
 
 Copyright © Jn (제이앤).
 
